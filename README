@@ -1,0 +1,14 @@
+Name: DualMonitorSpacesToOne
+Description: Cocoa application in dual monitor doesn't move when you use Spaces.app
+
+install:
+It is SIMBL plugin. So you put "DualMonitorSpacesToOne.bundlel" to /Users/{your name}/Library/Application Support/SIMBL/Plugins  or /Library/Application Support/SIMBL/Plugins . If this directory dosen't exist, you create.
+
+version:
+Apr 12, 2009 version0.1 release
+
+
+---
+soh kitahara
+sugarbabe335@gmail.com
+http://d.hatena.ne.jp/sugarbabe335/
